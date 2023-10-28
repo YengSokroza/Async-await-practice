@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-radial-black {
+    background: radial-gradient(rgb(186, 184, 184),#333);
+}
+
+.bg-radial-blue{
+    background: radial-gradient(whitesmoke,skyblue);
+}
